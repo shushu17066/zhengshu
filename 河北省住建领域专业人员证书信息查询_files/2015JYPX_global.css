@@ -1,0 +1,533 @@
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DIV {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DL {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DT {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DD {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+OL {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H1 {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H2 {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H3 {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H4 {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H5 {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H6 {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+PRE {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+CODE {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+FORM {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+FIELDSET {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LEGEND {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+BUTTON {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+BLOCKQUOTE {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+TH {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; BORDER-SPACING: 0px
+}
+FIELDSET {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+UL {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+LI {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+DL {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+DT {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+DD {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+OL {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+P {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+IMG {
+	BORDER-TOP-STYLE: none; LIST-STYLE-TYPE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+ADDRESS {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CAPTION {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CITE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CODE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+DFN {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+EM {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+TH {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+VAR {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+OPTGROUP {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+DEL {
+	TEXT-DECORATION: none
+}
+INS {
+	TEXT-DECORATION: none
+}
+CAPTION {
+	TEXT-ALIGN: left
+}
+TH {
+	TEXT-ALIGN: left
+}
+H1 {
+	FONT-SIZE: 100%
+}
+H2 {
+	FONT-SIZE: 100%
+}
+H3 {
+	FONT-SIZE: 100%
+}
+H4 {
+	FONT-SIZE: 100%
+}
+H5 {
+	FONT-SIZE: 100%
+}
+H6 {
+	FONT-SIZE: 100%
+}
+BUTTON {
+	FONT-SIZE: 100%
+}
+INPUT {
+	FONT-SIZE: 100%
+}
+SELECT {
+	FONT-SIZE: 100%
+}
+TEXTAREA {
+	FONT-SIZE: 100%
+}
+Q:before {
+	CONTENT: ''
+}
+Q:after {
+	CONTENT: ''
+}
+ABBR {
+	BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; FONT-VARIANT: normal; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+ACRONYM {
+	BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; FONT-VARIANT: normal; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+SUP {
+	VERTICAL-ALIGN: baseline
+}
+SUB {
+	VERTICAL-ALIGN: baseline
+}
+LEGEND {
+	COLOR: rgb(0,0,0)
+}
+SELECT {
+	COLOR: rgb(153,153,153)
+}
+A {
+	TEXT-DECORATION: none; COLOR: rgb(51,51,51)
+}
+SPAN {
+	COLOR: rgb(51,51,51)
+}
+A:hover {
+	COLOR: rgb(204,0,0)
+}
+A :focus {
+	COLOR: rgb(204,0,0)
+}
+A:active {
+	
+}
+A :visited {
+	
+}
+article {
+	DISPLAY: block
+}
+aside {
+	DISPLAY: block
+}
+details {
+	DISPLAY: block
+}
+figcaption {
+	DISPLAY: block
+}
+figure {
+	DISPLAY: block
+}
+footer {
+	DISPLAY: block
+}
+header {
+	DISPLAY: block
+}
+hgroup {
+	DISPLAY: block
+}
+nav {
+	DISPLAY: block
+}
+section {
+	DISPLAY: block
+}
+.tl {
+	TEXT-ALIGN: left
+}
+.tc {
+	TEXT-ALIGN: center
+}
+.tr {
+	TEXT-ALIGN: right
+}
+.bc {
+	MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px
+}
+.fl {
+	FLOAT: left; DISPLAY: inline
+}
+.fr {
+	FLOAT: right; DISPLAY: inline
+}
+.cb {
+	CLEAR: both
+}
+.cl {
+	CLEAR: left
+}
+.cr {
+	CLEAR: right
+}
+.mt20 {
+	MARGIN-TOP: 20px
+}
+.mr3 {
+	MARGIN-RIGHT: 3px
+}
+.clearfix:after {
+	HEIGHT: 0px; CONTENT: '.'; CLEAR: both; DISPLAY: block; VISIBILITY: hidden
+}
+.clear10 {
+	FONT-SIZE: 1px; OVERFLOW: hidden; HEIGHT: 10px; CLEAR: both; LINE-HEIGHT: 1
+}
+.clear15 {
+	FONT-SIZE: 1px; OVERFLOW: hidden; HEIGHT: 15px; CLEAR: both; LINE-HEIGHT: 1
+}
+.clear20 {
+	FONT-SIZE: 1px; OVERFLOW: hidden; HEIGHT: 20px; CLEAR: both; LINE-HEIGHT: 1
+}
+.clear {
+	FONT-SIZE: 0px; HEIGHT: 0px; CLEAR: both; LINE-HEIGHT: 0px
+}
+.vm {
+	VERTICAL-ALIGN: middle
+}
+.pr {
+	POSITION: relative
+}
+.pa {
+	POSITION: absolute
+}
+.abs-right {
+	RIGHT: 0px; POSITION: absolute
+}
+.zoom {
+	ZOOM: 1
+}
+.hidden {
+	VISIBILITY: hidden
+}
+.none {
+	DISPLAY: none
+}
+BODY {
+	BACKGROUND: url(http://jypx.hebjs.gov.cn/images/skin2015/2015JYPX_body_bg.jpg) rgb(237,237,237) no-repeat 50% 45px
+}
+.top {
+	HEIGHT: 45px; WIDTH: 100%; BACKGROUND: rgb(255,255,255); BORDER-BOTTOM: rgb(223,223,223) 1px solid; POSITION: fixed; LEFT: 0px; Z-INDEX: 9999; LINE-HEIGHT: 45px; TOP: 0px
+}
+.top_m {
+	OVERFLOW: hidden; HEIGHT: 45px; WIDTH: 1000px; MARGIN: 0px auto
+}
+.top_m_l {
+	FLOAT: left; MARGIN-LEFT: -20px
+}
+.top_m_l A {
+	BACKGROUND: url(http://jypx.hebjs.gov.cn/images/skin2015/2015JYPX_top_icon.png) no-repeat 0% 50%; COLOR: rgb(102,102,102); PADDING-LEFT: 20px; MARGIN-LEFT: 20px
+}
+.top_m_l A:hover {
+	COLOR: rgb(204,0,0)
+}
+.top_m_l .a1 {
+	BACKGROUND-POSITION: 0px 0px
+}
+.top_m_l .a2 {
+	BACKGROUND-POSITION: -68px 0px
+}
+.top_m_l .a3 {
+	BACKGROUND-POSITION: -145px 0px
+}
+.top_m_l .a4 {
+	BACKGROUND-POSITION: -223px 0px
+}
+.top_m_r {
+	FLOAT: right; COLOR: rgb(102,102,102); MARGIN-RIGHT: -10px
+}
+.top_m_r A {
+	COLOR: rgb(102,102,102); MARGIN: 0px 10px
+}
+.top_m_r A:hover {
+	COLOR: rgb(204,0,0)
+}
+.frist {
+	BACKGROUND: rgb(183,14,14)
+}
+.header {
+	WIDTH: 1000px; MARGIN: 0px auto
+}
+.h_t {
+	HEIGHT: 135px; WIDTH: 100%; FLOAT: left; PADDING-TOP: 30px
+}
+.h_l {
+	HEIGHT: 78px; WIDTH: 340px; MARGIN-TOP: 30px; FLOAT: left
+}
+.h_r {
+	WIDTH: 357px; MARGIN-TOP: 30px; FLOAT: right
+}
+.h_r_t {
+	WIDTH: 100%; FLOAT: left
+}
+.h_r_s {
+	HEIGHT: 30px; WIDTH: 100%; MARGIN-TOP: 10px; FLOAT: left; LINE-HEIGHT: 30px
+}
+.h_r_s .InputText {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 30px; WIDTH: 176px; BACKGROUND: rgb(255,255,255); BORDER-BOTTOM-STYLE: none; FLOAT: left; COLOR: rgb(153,153,153); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 13px; LINE-HEIGHT: 30px; PADDING-RIGHT: 13px
+}
+.h_r_s .InputButton1 {
+	BORDER-TOP-STYLE: none; FONT-SIZE: 14px; CURSOR: pointer; BORDER-LEFT-STYLE: none; HEIGHT: 30px; FONT-FAMILY: 微软雅黑; WIDTH: 60px; BACKGROUND: rgb(204,0,0); BORDER-BOTTOM-STYLE: none; FLOAT: left; COLOR: rgb(255,255,255); TEXT-ALIGN: center; BORDER-RIGHT-STYLE: none
+}
+.h_r_s .InputButton2 {
+	BORDER-TOP-STYLE: none; FONT-SIZE: 14px; CURSOR: pointer; BORDER-LEFT-STYLE: none; HEIGHT: 30px; FONT-FAMILY: 微软雅黑; WIDTH: 85px; BACKGROUND: rgb(0,153,204); BORDER-BOTTOM-STYLE: none; FLOAT: right; COLOR: rgb(255,255,255); TEXT-ALIGN: center; BORDER-RIGHT-STYLE: none
+}
+.nav {
+	WIDTH: 100%
+}
+.nav UL LI {
+	HEIGHT: 70px; WIDTH: 12.5%; BACKGROUND: rgb(195,16,17); FLOAT: left; TEXT-ALIGN: center; LINE-HEIGHT: 70px
+}
+.nav UL LI A {
+	FONT-SIZE: 16px; FONT-FAMILY: 微软雅黑; COLOR: rgb(255,255,255); DISPLAY: block
+}
+.nav UL LI A:hover {
+	BACKGROUND: rgb(183,14,14)
+}
+.cont {
+	OVERFLOW: hidden; WIDTH: 1000px; PADDING-BOTTOM: 20px; PADDING-TOP: 15px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.cont1 {
+	OVERFLOW: hidden; WIDTH: 1000px; POSITION: relative; PADDING-BOTTOM: 20px; PADDING-TOP: 15px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.f_m_t {
+	BORDER-TOP: rgb(204,204,204) 1px solid; HEIGHT: 40px; WIDTH: 100%; BACKGROUND: url(http://jypx.hebjs.gov.cn/images/skin2015/2015JYPX_sy_footer_bg.png) repeat-x 0% 50%; LINE-HEIGHT: 40px
+}
+.f_m_t UL {
+	WIDTH: 1000px; MARGIN: 0px auto
+}
+.f_m_t UL LI {
+	HEIGHT: 40px; WIDTH: 125px; BACKGROUND: url(http://jypx.hebjs.gov.cn/images/skin2015/2015JYPX_sy_footer_bg1.png) no-repeat 100% 50%; FLOAT: left; TEXT-ALIGN: center
+}
+.f_m_t UL LI SPAN {
+	FONT-SIZE: 16px; FONT-FAMILY: 微软雅黑; COLOR: rgb(153,0,0)
+}
+.f_m_t UL LI A {
+	FONT-SIZE: 14px; COLOR: rgb(102,102,102)
+}
+.f_m_t UL LI A:hover {
+	COLOR: rgb(204,0,0)
+}
+.footer {
+	OVERFLOW: hidden; HEIGHT: 130px; WIDTH: 100%; BACKGROUND: rgb(102,102,102)
+}
+.f_m {
+	OVERFLOW: hidden; WIDTH: 1000px; POSITION: relative; MARGIN: 0px auto
+}
+.f_m_c {
+	WIDTH: 100%; FLOAT: left; COLOR: rgb(255,255,255); TEXT-ALIGN: center; PADDING-TOP: 30px
+}
+.f_m_c A {
+	COLOR: rgb(255,255,255); MARGIN: 0px 1.5%
+}
+.f_m_c A:hover {
+	TEXT-DECORATION: underline
+}
+.f_m_b {
+	WIDTH: 100%; FLOAT: left; COLOR: rgb(255,255,255); TEXT-ALIGN: center; PADDING-TOP: 18px
+}
+.f_m_b P {
+	LINE-HEIGHT: 24px
+}
+.f_m_b P SPAN {
+	FONT-WEIGHT: bold; COLOR: rgb(255,255,255)
+}
+
+@media Unknown    
+{
+.top_m {
+	WIDTH: 96%
+}
+.header {
+	WIDTH: 96%
+}
+.cont {
+	WIDTH: 96%
+}
+.cont1 {
+	WIDTH: 96%
+}
+.f_m {
+	WIDTH: 96%
+}
+.f_m_t {
+	DISPLAY: none
+}
+.footer {
+	HEIGHT: auto; PADDING-BOTTOM: 60px; PADDING-TOP: 60px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.f_m_c {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.f_m_b .p1 {
+	DISPLAY: none
+}
+.h_l {
+	WIDTH: 100%; MARGIN-TOP: 40px
+}
+.h_r {
+	MARGIN-TOP: 20px
+}
+.h_r_t {
+	DISPLAY: none
+}
+.h_r_s {
+	DISPLAY: none
+}
+.top_m_l {
+	FLOAT: none; TEXT-ALIGN: center; MARGIN: 0px auto
+}
+.top_m_l A {
+	MARGIN: 0px 4%
+}
+.top_m_r {
+	DISPLAY: none
+}
+.nav UL LI {
+	HEIGHT: 35px; WIDTH: 25%; LINE-HEIGHT: 35px
+}
+.nav UL LI A {
+	FONT-SIZE: 14px
+}
+.h_r {
+	WIDTH: 100%
+}
+.h_r_s .InputText {
+	WIDTH: 45%
+}
+.h_r_s .InputButton2 {
+	WIDTH: 26%
+}
+.top_m_l A {
+	MARGIN: 0px 2%
+}
+.h_r_s {
+	DISPLAY: none
+}
+.h_l IMG {
+	HEIGHT: auto; WIDTH: 98%
+}
+.h_r {
+	WIDTH: 100%
+}
+.h_r_s .InputText {
+	WIDTH: 42%
+}
+
+}
